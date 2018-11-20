@@ -1,4 +1,4 @@
 <?php
 echo "Hello Bunbun";
-echo "HEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEY Thibal deb ♥"
+?><p><?php echo "HEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEEY Thibal; ?></p><?php deb ♥"
 ?>
