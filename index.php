@@ -2,6 +2,6 @@
 echo "Hello Bunbun";
 ?><p><?php echo "HOLAAA bonjourno?></p><?php deb ♥"
 ?>
-  <?php
+ <p> <?php
 echo "Yahya choque";
-?>
+   ?></p>
