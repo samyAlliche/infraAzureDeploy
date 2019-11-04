@@ -1,3 +1,3 @@
 <p> <?php
-echo "hello-world ! Qu'est ce qui est jaune et qui attend ?";
+echo "hello-world ! Baudouin est le plus beau";
    ?></p>
