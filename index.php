@@ -1,3 +1,3 @@
 <p> <?php
-echo "Lololo Blblblbl";
+echo "Bienvenue sur cette page.";
    ?></p>
