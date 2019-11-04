@@ -1,3 +1,3 @@
 <p> <?php
-echo "hello-world ! C'est moi en Infra (ou pas)";
+echo "hello-world ! Qu'est ce qui est jaune et qui attend ?";
    ?></p>
