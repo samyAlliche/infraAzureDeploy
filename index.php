@@ -11,3 +11,6 @@ echo "Salut à vous";
 echo "HAHA";
 echo "<h1><3</h1>";
 echo "belle journée aujourd'hui"
+   
+   
+?>
